@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as s,$ as e,a0 as c}from"./framework-3ae3a606.js";const n={},r=e("h1",{id:"sql",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#sql","aria-hidden":"true"},"#"),c(" SQL")],-1),o=[r];function _(d,i){return a(),s("div",null,o)}const h=t(n,[["render",_],["__file","index.html.vue"]]);export{h as default};

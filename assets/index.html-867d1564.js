@@ -1,0 +1,1 @@
+import{_ as t,X as a,Y as c,$ as e,a0 as n}from"./framework-3ae3a606.js";const r={},s=e("h1",{id:"数据库原理",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#数据库原理","aria-hidden":"true"},"#"),n(" 数据库原理")],-1),o=[s];function _(d,i){return a(),c("div",null,o)}const l=t(r,[["render",_],["__file","index.html.vue"]]);export{l as default};
