@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-5754668e","path":"/md/tools/vpn/","title":"VPN","lang":"zh-CN","frontmatter":{},"headers":[],"readingTime":{"minutes":0.26,"words":77},"filePathRelative":"md/tools/vpn/README.md","git":{"createdTime":1680592074000,"updatedTime":1680592074000,"contributors":[{"name":"calvinie","email":"nieyanbin960520@qq.com","commits":1}]}}');export{e as data};
