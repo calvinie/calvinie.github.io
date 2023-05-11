@@ -1,1 +1,0 @@
-const e=JSON.parse('{"key":"v-2714933d","path":"/java/oop.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"readingTime":{"minutes":0,"words":0},"filePathRelative":"java/oop.md","git":{"createdTime":1679899683000,"updatedTime":1679899683000,"contributors":[{"name":"calvin","email":"nieyanbin960520@qq.com","commits":1}]}}');export{e as data};
