@@ -1,0 +1,1 @@
+import{_ as a,X as s,Y as t,$ as e,a0 as c}from"./framework-3ae3a606.js";const r={},o=e("h1",{id:"java常用机制-spi机制详解",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#java常用机制-spi机制详解","aria-hidden":"true"},"#"),c(" Java常用机制 - SPI机制详解")],-1),n=[o];function _(i,d){return s(),t("div",null,n)}const l=a(r,[["render",_],["__file","spi.html.vue"]]);export{l as default};

@@ -1,0 +1,1 @@
+import{_ as a,X as t,Y as c,$ as e,a0 as o}from"./framework-3ae3a606.js";const n={},r=e("h1",{id:"java-基础-异常机制详解",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#java-基础-异常机制详解","aria-hidden":"true"},"#"),o(" Java 基础 - 异常机制详解")],-1),s=[r];function _(d,i){return t(),c("div",null,s)}const l=a(n,[["render",_],["__file","exception.html.vue"]]);export{l as default};

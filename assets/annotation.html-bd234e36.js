@@ -1,0 +1,1 @@
+import{_ as a,X as t,Y as n,$ as e,a0 as o}from"./framework-3ae3a606.js";const c={},r=e("h1",{id:"java-基础-注解机制详解",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#java-基础-注解机制详解","aria-hidden":"true"},"#"),o(" Java 基础 - 注解机制详解")],-1),s=[r];function _(d,i){return t(),n("div",null,s)}const l=a(c,[["render",_],["__file","annotation.html.vue"]]);export{l as default};
